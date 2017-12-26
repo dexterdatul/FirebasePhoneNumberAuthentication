@@ -1,0 +1,363 @@
+{
+  "project_info": {
+    "project_number": "293860580505",
+    "firebase_url": "https://fir-app-5a630.firebaseio.com",
+    "project_id": "fir-app-5a630",
+    "storage_bucket": "fir-app-5a630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:60ae29d8fb09195a",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-ar2umfo8fda5ei4ond6chgu5vhn2dv1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebaseapp",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:ea549a8db84810f2",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebaseappretrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-1us1jl0jo9kf3f00be21llh3rt5mr3v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebaseappretrieve",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:7e18eccfa41706e6",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebaseapplistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-lsss6n9l7pnhpgn1vjvm231mt71spug2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebaseapplistview",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:716b80f2202614d2",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebaseappstuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-f1omb99ucfg9jf7sbddk077r2ibf2cmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebaseappstuff",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:33a89bfe0ba3d12c",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebasemultiauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-81nd133dkn7nd2u31erkuatbkctg0dll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebasemultiauthentication",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:49711052edc7f3aa",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebasefacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-qt55s289f1iihqll2kfggdu8lcg4kunq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebasefacebook",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:0fc19a9ed752e64d",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-v4jrrfi1g0egbl61nd8jphho7gq5ql3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebasegooglesignin",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293860580505:android:2a93a74b6ca19dff",
+        "android_client_info": {
+          "package_name": "dexterdatul.com.firebasephonenumberauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293860580505-rh960rttpff9uvsbgtaitfmsbdbk9uh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dexterdatul.com.firebasephonenumberauthentication",
+            "certificate_hash": "7c5905c5a4353605cdebbe09f9c831162a89d6af"
+          }
+        },
+        {
+          "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbcob8wiXonnyvp181iBU4_F4Lb5n4Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293860580505-668vteb3oglqiilk2nesliemi7g0kcoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
